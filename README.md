@@ -28,7 +28,7 @@ Tic-Tac-Toe is a timeless game enjoyed by people of all ages. This project aims 
 
 ## Screenshots
 
-[Calculator Screenshot](https://github.com/ArwaElhadidy/Calculator/blob/main/Screenshot%20(175).png)
+[Calculator Screenshot](https://github.com/ArwaElhadidy/Tic-Tac-Toe/blob/main/Screenshot%20(175).png)
 
 ## Credits
 
@@ -36,10 +36,10 @@ Tic-Tac-Toe is a timeless game enjoyed by people of all ages. This project aims 
 
 ## Demo
 
-You can view a live demo of Calculator [here](https://arwaelhadidy.github.io/Calculator/.)
+You can view a live demo of Calculator [here](https://arwaelhadidy.github.io/Tic-Tac-Toe/)
 
 ## Credits
-Create innovative solutions using JavaScript
+This project is inspired by the classic game of Tic-Tac-Toe.
 ## Author
 [Arwa Elhadidy ;)](https://github.com/ArwaElhadidy)
 
