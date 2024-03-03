@@ -28,7 +28,7 @@ Tic-Tac-Toe is a timeless game enjoyed by people of all ages. This project aims 
 
 ## Screenshots
 
-[Calculator Screenshot](https://github.com/ArwaElhadidy/Tic-Tac-Toe/blob/main/Screenshot%20(175).png)
+[Tic-Tac-Toe Screenshot](https://github.com/ArwaElhadidy/Tic-Tac-Toe/blob/main/Screenshot%20(175).png)
 
 ## Credits
 
