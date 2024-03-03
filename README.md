@@ -30,10 +30,6 @@ Tic-Tac-Toe is a timeless game enjoyed by people of all ages. This project aims 
 
 [Tic-Tac-Toe Screenshot](https://github.com/ArwaElhadidy/Tic-Tac-Toe/blob/main/Screenshot%20(175).png)
 
-## Credits
-
-- **Frontend Mentor**: This project was inspired by challenges from Frontend Mentor. Visit [Frontend Mentor](https://www.frontendmentor.io) for more projects to enhance your coding skills.
-
 ## Demo
 
 You can view a live demo of Calculator [here](https://arwaelhadidy.github.io/Tic-Tac-Toe/)
