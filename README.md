@@ -18,6 +18,10 @@ Tic-Tac-Toe is a timeless game enjoyed by people of all ages. This project aims 
 
 ## Technologies Used
 
+- **HTML**: The markup language used to structure the content of the web page.
+
+- **CSS**: The styling language used to enhance the visual presentation of the web page.
+  
 - **JavaScript (JS)**: The core logic of the game is implemented using JavaScript, allowing for dynamic and interactive gameplay.
 
 ## Usage
